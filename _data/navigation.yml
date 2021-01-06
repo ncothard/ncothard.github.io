@@ -4,8 +4,8 @@ main:
   - title: "Publications"
     url: /publications/
   - title: "CV"
-    url: /
-  - title: "Thesis"
     url: /assets/cv/nfc_cv.pdf
+  - title: "Thesis"
+    url: /
   - title: "About"
     url: /
