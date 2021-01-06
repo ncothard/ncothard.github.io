@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
     
-## RESEARCH
 A page about my research
 
 ### Superconducting transition edge sensors
