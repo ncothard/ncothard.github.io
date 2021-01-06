@@ -69,7 +69,6 @@ author:
   name   : "Nicholas F Cothard"
   avatar : "/assets/images/headshot_circle.png"
   bio    : "NASA Space Technology Research Fellow. PhD Candidate at Cornell. mm/sub-mm wave detectors and optics for ground-based cosmology and astrophysics observatories."
-  #"My awesome biography constrained to a sentence or two goes here."
   location : "Ithaca, NY"
   links:
     - label: "Email"
