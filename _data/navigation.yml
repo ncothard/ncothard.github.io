@@ -1,6 +1,6 @@
 main:
   - title: "Research"
-    url: /research.md
+    url: /_pages/research.md
   - title: "Publications"
     url: /publications.md
   - title: "CV"
