@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nicholas F. Cothard
+title: Nicholas F Cothard
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -59,13 +59,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Nicholas F. Cothard"
+  name   : "Nicholas F Cothard"
   avatar : "/assets/images/headshot_circle.png"
   bio    : "NASA Space Technology Research Fellow. PhD Candidate at Cornell. mm/sub-mm wave detectors and optics for ground-based cosmology and astrophysics observatories."
   #"My awesome biography constrained to a sentence or two goes here."
+  location : "Ithaca, NY"
+  email  : nc467@cornell.edu
   links:
-    - label: "Ithaca, NY"
-      icon: "fas fa-fw fa-map-marker-alt"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:nc467@cornell.edu"
