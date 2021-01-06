@@ -12,10 +12,10 @@ Welcome! I'm a PhD candidate in Applied and Engineering Physics and a NASA Space
 
 As an applied physicist, I enjoy bridging the gap between state-of-the-art light-sensing technologies and our understanding of the early universe. The goal of my PhD is to develop, improve, and deploy these technoliges for cosmology and astrophysics observatories, enabling the most sensitive and precise measurements of the cosmic microwave background and regions of early star-forming galaxies.
 
-<!---
 ![Toco]({{ site.url }}/20170516_152828_small.jpg)
 Photo taken May 2017 at the Atacama Cosmology Telescope on Cerro Toco (5190 m / 17030 ft) near San Pedro de Atacama, Chile.
 
+<!---
 What I like to do as an applied physicist
 What I am currently doing
 What I want to do
