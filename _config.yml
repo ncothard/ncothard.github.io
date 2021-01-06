@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: NickFCothard
 github_username: ncothard
 minimal_mistakes_skin: default
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -58,13 +58,19 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Analytics
+analytics:
+  provider               : google
+  google:
+    tracking_id          : UA-179307513-1
+    anonymize_ip         : # true, false (default)
+
 author:
   name   : "Nicholas F Cothard"
   avatar : "/assets/images/headshot_circle.png"
   bio    : "NASA Space Technology Research Fellow. PhD Candidate at Cornell. mm/sub-mm wave detectors and optics for ground-based cosmology and astrophysics observatories."
   #"My awesome biography constrained to a sentence or two goes here."
   location : "Ithaca, NY"
-  email  : nc467@cornell.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
