@@ -1,4 +1,9 @@
-**<span style="color: grey;"> [HOME](./index.md) </span>**
+---
+title: 'Publications'
+layout: single
+permalink: /publications/
+author_profile: true
+---
 
 ## PUBLICATIONS
 
