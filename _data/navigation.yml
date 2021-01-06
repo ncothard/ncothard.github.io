@@ -1,11 +1,11 @@
 main:
   - title: "Research"
-    url: /research/
+    url: /research.md
   - title: "Publications"
-    url: /research/
+    url: /publications.md
   - title: "CV"
-    url: /categories/
+    url: /
   - title: "Thesis"
-    url: /tags/
+    url: /
   - title: "About"
     url: /
