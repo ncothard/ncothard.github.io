@@ -1,5 +1,10 @@
-**<span style="color: grey;"> [HOME](./index.md) </span>**
-
+---
+title: 'Research'
+layout: single
+permalink: /research/
+author_profile: true
+---
+    
 ## RESEARCH
 A page about my research
 
