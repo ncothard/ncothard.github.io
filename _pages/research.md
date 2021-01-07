@@ -5,9 +5,14 @@ permalink: /research/
 author_profile: true
 ---
     
-A page about my research
+This page is under construction!
 
-### Superconducting transition edge sensors
+My graduate research focuses on developing technologies for observing the early universe with ground-based microwave telescopes.
+
+### Superconducting Detectors
+
+We use ultra-low-noise, high-sensitivity superconducting detectors to measure microwave radiation (millimeter and submillimeter wavelengths) from the sky.
+These detectors enable us to 
 
 What a TES bolometer is.
 How a TES measures radiation.
