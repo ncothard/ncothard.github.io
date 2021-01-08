@@ -55,7 +55,7 @@ author_profile: true
 
 1. S. Choi et al. (including **N. F. Cothard**) "Sensitivity of the Prime-Cam Instrument on the CCAT-prime Telescope", Journal of Low Temperature Physics (2019), [DOI](https://doi.org/10.1007/s10909-020-02428-z), [arXiv:1908.10451](https://arxiv.org/abs/1908.10451)
 
-1. Y. Li et al. (including **N. F. Cothard**) "Assembly and Integration Process of the High-Density Detector Array Readout Modules for the Simons Observatory", Journal of Low Temperature Physics (2020), [DOI](https://doi.org/10.1007/s10909-020-02386-6)
+1. Y. Li et al. (including **N. F. Cothard**) "Assembly and Integration Process of the High-Density Detector Array Readout Modules for the Simons Observatory", Journal of Low Temperature Physics (2020), [DOI](https://doi.org/10.1007/s10909-020-02386-6), [arXiv:2101.02658](https://arxiv.org/abs/2101.02658)
 
 1. A. Suzuki et al. (including **N. F. Cothard**) "Commercially Fabricated Antenna-Coupled Transition Edge Sensor Bolometer Detectors for Next-Generation Cosmic Microwave Background Polarimetry Experiment", Journal of Low Temperature Physics (2020), [DOI](https://doi.org/10.1007/s10909-019-02325-0), [arXiv:1912.12782](https://arxiv.org/abs/1912.12782)
 
