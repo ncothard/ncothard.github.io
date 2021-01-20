@@ -33,7 +33,7 @@ author_profile: true
 
 1. E. M. Vavagiakis et al. (including **N. F. Cothard**) "The Simons Observatory: Magnetic Sensitivity Measurements of Microwave SQUID Multiplexers", ASC IEEE Proceedings (in review) (2020), [arXiv:2012.04532](https://arxiv.org/abs/2012.04532)
 
-1. J. E. Gudmundsson, P. A. Gallardo, R. Puddu, S. R. Dicker, et al. (including **N. F. Cothard**) "The Simons Observatory: Modeling Optical Systematics in the Large Aperture Telescope", Applied Optics (in review) (2020), [arXiv:2009.10138](https://arxiv.org/abs/2009.10138)
+1. J. E. Gudmundsson, P. A. Gallardo, R. Puddu, S. R. Dicker, et al. (including **N. F. Cothard**) "The Simons Observatory: Modeling Optical Systematics in the Large Aperture Telescope", Applied Optics (2021), [DOI](https://doi.org/10.1364/AO.411533), [arXiv:2009.10138](https://arxiv.org/abs/2009.10138)
 
 1. C. J. Duell, et al. (including **N. F. Cothard**) "CCAT-prime: Designs and status of the first light 280 GHz MKID array and mod-cam receiver", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2562757), [arXiv:2012.10411](https://arxiv.org/abs/2012.10411)
 
