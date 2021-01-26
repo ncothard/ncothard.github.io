@@ -29,6 +29,10 @@ author_profile: true
 ### Collaboration Papers
 
 {: reversed="reversed"}
+1. E. M. Vavagiakis et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Probing the Baryon Content of SDSS DR15 Galaxies with the Thermal and Kinematic Sunyaev-Zel’dovich Effects", (2021), [arXiv:2101.08373](https://arxiv.org/pdf/2101.08373.pdf)
+
+1. V. Calafut et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Detection of the Pairwise Kinematic Sunyaev-Zel’dovich Effect with SDSS DR15 Galaxies", (2021), [arXiv:2101.08374](https://arxiv.org/pdf/2101.08374.pdf)
+
 1. S. Naess et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Detection of mm-wave transient sources", ApJ (in review) (2020), [arXiv:2012.14347](https://arxiv.org/abs/2012.14347)
 
 1. E. M. Vavagiakis et al. (including **N. F. Cothard**) "The Simons Observatory: Magnetic Sensitivity Measurements of Microwave SQUID Multiplexers", ASC IEEE Proceedings (in review) (2020), [arXiv:2012.04532](https://arxiv.org/abs/2012.04532)
