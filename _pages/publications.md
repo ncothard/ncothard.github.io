@@ -45,7 +45,7 @@ author_profile: true
 
 1. J. Seibert, et al. (including **N. F. Cothard**) "Development of an optical detector testbed for the Simons Observatory", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2562045)
 
-1. K. Harrington, et al. (including **N. F. Cothard**) "The integration and testing program for the Simons Observatory Large Aperture Telescope optics tubes", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2562647)
+1. K. Harrington, et al. (including **N. F. Cothard**) "The integration and testing program for the Simons Observatory Large Aperture Telescope optics tubes", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2562647), [arXiv:2102.02129](https://arxiv.org/abs/2102.02129)
 
 1. Z. Xu et al. (including **N. F. Cothard**) "The Simons Observatory: the Large Aperture Telescope Receiver (LATR) integration and validation results", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2576151), [arXiv:2012.07862](http://arxiv.org/abs/2012.07862)
 
