@@ -29,13 +29,17 @@ author_profile: true
 ### Collaboration Papers
 
 {: reversed="reversed"}
-1. E. M. Vavagiakis et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Probing the Baryon Content of SDSS DR15 Galaxies with the Thermal and Kinematic Sunyaev-Zel’dovich Effects", (2021), [arXiv:2101.08373](https://arxiv.org/pdf/2101.08373.pdf)
+1. N. Zhu et al. (including **N. F. Cothard**) "The Simons Observatory Large Aperture Telescope Receiver", (in review) (2021), [arXiv:2103.02747](https://arxiv.org/abs/2103.02747)
 
-1. V. Calafut et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Detection of the Pairwise Kinematic Sunyaev-Zel’dovich Effect with SDSS DR15 Galaxies", (2021), [arXiv:2101.08374](https://arxiv.org/pdf/2101.08374.pdf)
+1. E. M. Vavagiakis et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Probing the Baryon Content of SDSS DR15 Galaxies with the Thermal and Kinematic Sunyaev-Zel’dovich Effects", (in review) (2021), [arXiv:2101.08373](https://arxiv.org/pdf/2101.08373.pdf)
+
+1. V. Calafut et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Detection of the Pairwise Kinematic Sunyaev-Zel’dovich Effect with SDSS DR15 Galaxies", (in review) (2021), [arXiv:2101.08374](https://arxiv.org/pdf/2101.08374.pdf)
 
 1. S. Naess et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Detection of mm-wave transient sources", ApJ (in review) (2020), [arXiv:2012.14347](https://arxiv.org/abs/2012.14347)
 
 1. E. M. Vavagiakis et al. (including **N. F. Cothard**) "The Simons Observatory: Magnetic Sensitivity Measurements of Microwave SQUID Multiplexers", ASC IEEE Proceedings (in review) (2020), [arXiv:2012.04532](https://arxiv.org/abs/2012.04532)
+
+1. Y. Li et al. (including **N. F. Cothard**) "In situ Performance of the Low Frequency Array for AdvACT", IEEE Transactions on Applied Superconductivity (2021), [DOI](https://doi.org/10.1109/TASC.2021.3063334), [arXiv:2101.02658](https://arxiv.org/abs/2101.02658)
 
 1. J. E. Gudmundsson, P. A. Gallardo, R. Puddu, S. R. Dicker, et al. (including **N. F. Cothard**) "The Simons Observatory: Modeling Optical Systematics in the Large Aperture Telescope", Applied Optics (2021), [DOI](https://doi.org/10.1364/AO.411533), [arXiv:2009.10138](https://arxiv.org/abs/2009.10138)
 
