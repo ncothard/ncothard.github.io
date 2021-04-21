@@ -29,6 +29,8 @@ author_profile: true
 ### Collaboration Papers
 
 {: reversed="reversed"}
+1. Z. Xu et al. (including **N. F. Cothard**) "The Simons Observatory: the Large Aperture Telescope (LAT)", AAS Research Note (2021), [arXiv:2104.09511](https://arxiv.org/abs/2104.09511)
+
 1. N. Zhu et al. (including **N. F. Cothard**) "The Simons Observatory Large Aperture Telescope Receiver", (in review) (2021), [arXiv:2103.02747](https://arxiv.org/abs/2103.02747)
 
 1. E. M. Vavagiakis et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Probing the Baryon Content of SDSS DR15 Galaxies with the Thermal and Kinematic Sunyaev-Zel’dovich Effects", (in review) (2021), [arXiv:2101.08373](https://arxiv.org/pdf/2101.08373.pdf)
