@@ -29,6 +29,8 @@ author_profile: true
 ### Collaboration Papers
 
 {: reversed="reversed"}
+1. Y. Guan et al. (including (**N. F. Cothard**) "The Atacama Cosmology Telescope: Microwave Intensity and Polarization Maps of the Galactic Center", (2021), [arXiv:2105.05267](https://arxiv.org/abs/2105.05267)
+
 1. S. Naess et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: A search for Planet 9", ApJ (in review) (2021), [arXiv:2104.10264](https://arxiv.org/abs/2104.10264)
 
 1. Z. Xu et al. (including **N. F. Cothard**) "The Simons Observatory: the Large Aperture Telescope (LAT)", AAS Research Note (2021), [arXiv:2104.09511](https://arxiv.org/abs/2104.09511)
