@@ -43,7 +43,7 @@ author_profile: true
 
 1. V. Calafut et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Detection of the Pairwise Kinematic Sunyaev-Zel’dovich Effect with SDSS DR15 Galaxies", (in review) (2021), [arXiv:2101.08374](https://arxiv.org/pdf/2101.08374.pdf)
 
-1. S. Naess et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Detection of mm-wave transient sources", ApJ (in review) (2020), [arXiv:2012.14347](https://arxiv.org/abs/2012.14347)
+1. S. Naess et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Detection of mm-wave transient sources", ApJ (2020), [DOI](https://doi.org/10.3847/1538-4357/abfe6d), [arXiv:2012.14347](https://arxiv.org/abs/2012.14347)
 
 1. E. M. Vavagiakis et al. (including **N. F. Cothard**) "The Simons Observatory: Magnetic Sensitivity Measurements of Microwave SQUID Multiplexers", ASC IEEE Proceedings (2020), [DOI](https://doi.org/10.1109/TASC.2021.3069294), [arXiv:2012.04532](https://arxiv.org/abs/2012.04532)
 
