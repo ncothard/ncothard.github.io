@@ -29,9 +29,11 @@ author_profile: true
 ### Collaboration Papers
 
 {: reversed="reversed"}
-1. G. Chesmore et al. (including **N. F. Cothard**) "The Simons Observatory: HoloSim-ML: machine learning applied to the efficient analysis of radio holography measurements of complex optical systems", Applied Optics (in review) (2021), [arxiv:2107.04138](https://arxiv.org/abs/2107.04138)
+1. The CCAT-Prime Collaboration (including **N. F. Cothard**) "CCAT-prime Collaboration: Science Goals and Forecasts with Prime-Cam on the Fred Young Submillimeter Telescope", ApJ (in review) (2021), [arXiv:2107.10364](https://arxiv.org/abs/2107.10364)
 
-1. H. McCarrick et al. (including **N. F. Cothard**) "The Simons Observatory microwave SQUID multiplexing detector module design", (2021), [arxiv:2106.14797](https://arxiv.org/abs/2106.14797)
+1. G. Chesmore et al. (including **N. F. Cothard**) "The Simons Observatory: HoloSim-ML: machine learning applied to the efficient analysis of radio holography measurements of complex optical systems", Applied Optics (in review) (2021), [arXiv:2107.04138](https://arxiv.org/abs/2107.04138)
+
+1. H. McCarrick et al. (including **N. F. Cothard**) "The Simons Observatory microwave SQUID multiplexing detector module design", (2021), [arXiv:2106.14797](https://arxiv.org/abs/2106.14797)
 
 1. Y. Guan et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Microwave Intensity and Polarization Maps of the Galactic Center", ApJ (2021), [arXiv:2105.05267](https://arxiv.org/abs/2105.05267)
 
