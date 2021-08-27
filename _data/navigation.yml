@@ -1,11 +1,9 @@
 main:
-  - title: "Research"
-    url: /research/
+  - title: "Home"
+    url: /
   - title: "Publications"
     url: /publications/
   - title: "CV"
     url: /download/nfc_cv.pdf
   - title: "Thesis"
-    url: /thesis/
-  - title: "About"
-    url: /
+    url: /download/Cothard_thesis_final_20210821.pdf

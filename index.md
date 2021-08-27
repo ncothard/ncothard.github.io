@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
-title: "About"
+title: "Home"
 ---
 
 I am a [NASA Postdoctoral Program Fellow](https://npp.usra.edu/) at [Goddard Space Flight Center](https://www.nasa.gov/goddard). I develop novel superconducting detectors and cryogenic optics for far-infrared and sub-millimeter orbital and sub-orbital telescopes, with the goal of enabling observations of galaxy evolution over cosmic time. I work with on range of technologies including silicon substrate frequency selective surfaces, kinetic inductance detectors, frequency-multiplexed cryogenic readout, cryogenic systems, and Fourier transform infrared spectroscopy.
@@ -25,7 +25,7 @@ Previously, I was a graduate student in Applied and Engineering Physics at Corne
 
 
 ![Toco]({{ site.url }}/assets/images/toco.jpg)
-*Photo taken May 2017 at the Atacama Cosmology Telescope on Cerro Toco (5190 m / 17030 ft) near San Pedro de Atacama, Chile.*
+*The Atacama Cosmology Telescope on Cerro Toco (5190 m / 17030 ft) near San Pedro de Atacama, Chile (May 2017).*
 
 <!---
 What I like to do as an applied physicist
