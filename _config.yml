@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nicholas F Cothard
+title: Dr Nicholas F Cothard
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -66,10 +66,10 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 author:
-  name   : "Nicholas F Cothard"
+  name   : "Dr Nicholas F Cothard"
   avatar : "/assets/images/headshot_circle.png"
-  bio    : "NASA Space Technology Research Fellow. PhD Candidate at Cornell. mm/sub-mm wave detectors and optics for ground-based cosmology and astrophysics observatories."
-  location : "Ithaca, NY"
+  bio    : "NASA Postdoctoral Program Fellow at Goddard Space Flight Center. Applied Physics PhD from Cornell."
+  location : "Greenbelt, MD"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
