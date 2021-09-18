@@ -33,7 +33,7 @@ author_profile: true
 
 1. G. Chesmore et al. (including **N. F. Cothard**) "The Simons Observatory: HoloSim-ML: machine learning applied to the efficient analysis of radio holography measurements of complex optical systems", Applied Optics (in review) (2021), [arXiv:2107.04138](https://arxiv.org/abs/2107.04138)
 
-1. H. McCarrick et al. (including **N. F. Cothard**) "The Simons Observatory microwave SQUID multiplexing detector module design", (2021), [arXiv:2106.14797](https://arxiv.org/abs/2106.14797)
+1. H. McCarrick et al. (including **N. F. Cothard**) "The Simons Observatory microwave SQUID multiplexing detector module design", ApJ (2021), [arXiv:2106.14797](https://arxiv.org/abs/2106.14797)
 
 1. Y. Guan et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Microwave Intensity and Polarization Maps of the Galactic Center", ApJ (2021), [arXiv:2105.05267](https://arxiv.org/abs/2105.05267)
 
@@ -41,11 +41,11 @@ author_profile: true
 
 1. Z. Xu et al. (including **N. F. Cothard**) "The Simons Observatory: the Large Aperture Telescope (LAT)", AAS Research Note (2021), [DOI](https://doi.org/10.3847/2515-5172/abf9ab), [arXiv:2104.09511](https://arxiv.org/abs/2104.09511)
 
-1. N. Zhu et al. (including **N. F. Cothard**) "The Simons Observatory Large Aperture Telescope Receiver", (in review) (2021), [arXiv:2103.02747](https://arxiv.org/abs/2103.02747)
+1. N. Zhu et al. (including **N. F. Cothard**) "The Simons Observatory Large Aperture Telescope Receiver", ApJS (2021), [DOI](https://doi.org/10.3847/1538-4365/ac0db7), [arXiv:2103.02747](https://arxiv.org/abs/2103.02747)
 
-1. E. M. Vavagiakis et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Probing the Baryon Content of SDSS DR15 Galaxies with the Thermal and Kinematic Sunyaev-Zel’dovich Effects", (in review) (2021), [arXiv:2101.08373](https://arxiv.org/abs/2101.08373)
+1. E. M. Vavagiakis et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Probing the Baryon Content of SDSS DR15 Galaxies with the Thermal and Kinematic Sunyaev-Zel’dovich Effects", Phys. Rev. D (2021), [DOI](https://doi.org/10.1103/PhysRevD.104.043503), [arXiv:2101.08373](https://arxiv.org/abs/2101.08373)
 
-1. V. Calafut et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Detection of the Pairwise Kinematic Sunyaev-Zel’dovich Effect with SDSS DR15 Galaxies", (in review) (2021), [arXiv:2101.08374](https://arxiv.org/abs/2101.08374)
+1. V. Calafut et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Detection of the Pairwise Kinematic Sunyaev-Zel’dovich Effect with SDSS DR15 Galaxies", Phys. Rev. D (2021), [DOI](https://doi.org/10.1103/PhysRevD.104.043502), [arXiv:2101.08374](https://arxiv.org/abs/2101.08374)
 
 1. S. Naess et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Detection of mm-wave transient sources", ApJ (2020), [DOI](https://doi.org/10.3847/1538-4357/abfe6d), [arXiv:2012.14347](https://arxiv.org/abs/2012.14347)
 
