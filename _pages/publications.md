@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+Here's a list of my publications.
 
 ### Main-Author Papers
 
@@ -86,7 +87,7 @@ author_profile: true
 1. The Simons Observatory Collaboration (including **N. F. Cothard**) "The Simons Observatory: science goals and forecasts" Journal of Cosmology and Astroparticle Physics (2019), [DOI](https://doi.org/10.1088/1475-7516/2019/02/056), [arXiv:1808.07445](https://arxiv.org/abs/1808.07445)
 
 1. R. Puddu, **N. F. Cothard**, P.A. Gallardo, R. Dünner, P. Fluxá, "Sidelobe analysis for the Atacama Cosmology Telescope: a novel method for importing models in GRASP" (2019), [arXiv:1903.04689](https://arxiv.org/abs/1903.04689)
- 
+
 1. E. M. Vavagiakis et al. (including **N. F. Cothard**) "Magnetic Sensitivity of AlMn TESes and Shielding Considerations for Next-Generation CMB Surveys" Journal of Low Temperature Physics (2018), [DOI](https://doi.org/10.1007/s10909-018-1920-5), [arXiv:1710.08456](https://arxiv.org/abs/1710.08456)
 
 1. P. A. Gallardo et al. (including **N. F. Cothard**) "Studies of Systematic Uncertainties for Simons Observatory: Optical Effects and Sensitivity Considerations" Proc. SPIE (2018), [DOI](https://doi.org/10.1117/12.2312971), [arXiv:1808.05152](https://arxiv.org/abs/1808.05152)
