@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Here's a list of my publications.
 
 ### Main-Author Papers
 
