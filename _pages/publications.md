@@ -29,6 +29,8 @@ author_profile: true
 ### Collaboration Papers
 
 {: reversed="reversed"}
+1. S. Choi et al. (including **N. F. Cothard**) "CCAT-prime: Characterization of the First 280 GHz MKID Array for Prime-Cam", Journal of Low Temperature Physics (in review), [arXiv:2111.01055](https://arxiv.org/abs/2111.01055)
+
 1. The CCAT-Prime Collaboration (including **N. F. Cothard**) "CCAT-prime Collaboration: Science Goals and Forecasts with Prime-Cam on the Fred Young Submillimeter Telescope", ApJ (in review) (2021), [arXiv:2107.10364](https://arxiv.org/abs/2107.10364)
 
 1. G. Chesmore et al. (including **N. F. Cothard**) "The Simons Observatory: HoloSim-ML: machine learning applied to the efficient analysis of radio holography measurements of complex optical systems", Applied Optics (2021), [DOI](https://doi.org/10.1364/AO.435007), [arXiv:2107.04138](https://arxiv.org/abs/2107.04138)
