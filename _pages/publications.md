@@ -33,7 +33,7 @@ author_profile: true
 
 1. G. Chesmore et al. (including **N. F. Cothard**) "The Simons Observatory: HoloSim-ML: machine learning applied to the efficient analysis of radio holography measurements of complex optical systems", Applied Optics (2021), [DOI](https://doi.org/10.1364/AO.435007), [arXiv:2107.04138](https://arxiv.org/abs/2107.04138)
 
-1. H. McCarrick et al. (including **N. F. Cothard**) "The Simons Observatory microwave SQUID multiplexing detector module design", ApJ (2021), [arXiv:2106.14797](https://arxiv.org/abs/2106.14797)
+1. H. McCarrick et al. (including **N. F. Cothard**) "The Simons Observatory microwave SQUID multiplexing detector module design", ApJ (2021), [DOI](https://doi.org/10.3847/1538-4357/ac2232), [arXiv:2106.14797](https://arxiv.org/abs/2106.14797)
 
 1. Y. Guan et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Microwave Intensity and Polarization Maps of the Galactic Center", ApJ (2021), [arXiv:2105.05267](https://arxiv.org/abs/2105.05267)
 
