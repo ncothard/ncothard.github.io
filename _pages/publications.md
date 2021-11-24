@@ -29,6 +29,8 @@ author_profile: true
 ### Collaboration Papers
 
 {: reversed="reversed"}
+1. Z. Huber et al. (including **N. F. Cothard**) "The Simons Observatory: Magnetic Shielding Measurements for the Universal Multiplexing Module", Journal of Low Temperature Physics (in review), [arXiv:2111.11495](https://arxiv.org/abs/2111.11495)
+
 1. S. Choi et al. (including **N. F. Cothard**) "CCAT-prime: Characterization of the First 280 GHz MKID Array for Prime-Cam", Journal of Low Temperature Physics (in review), [arXiv:2111.01055](https://arxiv.org/abs/2111.01055)
 
 1. The CCAT-Prime Collaboration (including **N. F. Cothard**) "CCAT-prime Collaboration: Science Goals and Forecasts with Prime-Cam on the Fred Young Submillimeter Telescope", ApJ (in review) (2021), [arXiv:2107.10364](https://arxiv.org/abs/2107.10364)
