@@ -39,9 +39,9 @@ author_profile: true
 
 1. H. McCarrick et al. (including **N. F. Cothard**) "The Simons Observatory microwave SQUID multiplexing detector module design", ApJ (2021), [DOI](https://doi.org/10.3847/1538-4357/ac2232), [arXiv:2106.14797](https://arxiv.org/abs/2106.14797)
 
-1. Y. Guan et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Microwave Intensity and Polarization Maps of the Galactic Center", ApJ (2021), [arXiv:2105.05267](https://arxiv.org/abs/2105.05267)
+1. Y. Guan et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Microwave Intensity and Polarization Maps of the Galactic Center", ApJ (2021), [DOI](https://doi.org/10.3847/1538-4357/ac133f), [arXiv:2105.05267](https://arxiv.org/abs/2105.05267)
 
-1. S. Naess et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: A search for Planet 9", ApJ (in review) (2021), [arXiv:2104.10264](https://arxiv.org/abs/2104.10264)
+1. S. Naess et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: A search for Planet 9", ApJ (2021), [DOI](https://doi.org/10.3847/1538-4357/ac2307), [arXiv:2104.10264](https://arxiv.org/abs/2104.10264)
 
 1. Z. Xu et al. (including **N. F. Cothard**) "The Simons Observatory: the Large Aperture Telescope (LAT)", AAS Research Note (2021), [DOI](https://doi.org/10.3847/2515-5172/abf9ab), [arXiv:2104.09511](https://arxiv.org/abs/2104.09511)
 
