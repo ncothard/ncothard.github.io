@@ -61,7 +61,7 @@ author_profile: true
 
 1. C. J. Duell, et al. (including **N. F. Cothard**) "CCAT-prime: Designs and status of the first light 280 GHz MKID array and mod-cam receiver", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2562757), [arXiv:2012.10411](https://arxiv.org/abs/2012.10411)
 
-1. E. Healy, et al. (including **N. F. Cothard**) "Assembly development for the Simons Observatory focal plane readout module", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2561743)
+1. E. Healy, et al. (including **N. F. Cothard**) "Assembly development for the Simons Observatory focal plane readout module", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2561743), [arXiv:2204.05869](https://arxiv.org/abs/2204.05869)
 
 1. J. Seibert, et al. (including **N. F. Cothard**) "Development of an optical detector testbed for the Simons Observatory", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2562045)
 
