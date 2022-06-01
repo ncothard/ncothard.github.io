@@ -59,11 +59,17 @@ plugins:
   - jekyll-include-cache
 
 # Analytics
+# analytics:
+#   provider               : google
+#   google:
+#     tracking_id          : UA-179307513-1
+#     anonymize_ip         : # true, false (default)
 analytics:
   provider               : google
   google:
-    tracking_id          : UA-179307513-1
+    tracking_id          : G-2K0SRFPMMX
     anonymize_ip         : # true, false (default)
+
 
 author:
   name   : "Dr Nicholas F Cothard"
