@@ -60,12 +60,12 @@ plugins:
 
 # Analytics
 # analytics:
-#   provider               : google
+#   provider               : google-gtag
 #   google:
 #     tracking_id          : UA-179307513-1
 #     anonymize_ip         : # true, false (default)
 analytics:
-  provider               : google
+  provider               : "google-gtag"
   google:
     tracking_id          : G-2K0SRFPMMX
     anonymize_ip         : # true, false (default)
