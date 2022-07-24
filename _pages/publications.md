@@ -29,6 +29,8 @@ author_profile: true
 ### Collaboration Papers
 
 {: reversed="reversed"}
+1. B. Zou et al. (including **N. F. Cothard**) "CCAT-prime: The Design and Characterization of the Silicon Mirrors for the Fabry-Perot Interferometer in the Epoch of Reionization Spectrometer", Proc. SPIE (2022), [arXiv:2207.08318](https://arxiv.org/abs/2207.08318)
+
 1. Z. Huber et al. (including **N. F. Cothard**) "The Simons Observatory: Magnetic Shielding Measurements for the Universal Multiplexing Module", Journal of Low Temperature Physics (in review), [arXiv:2111.11495](https://arxiv.org/abs/2111.11495)
 
 1. S. Choi et al. (including **N. F. Cothard**) "CCAT-prime: Characterization of the First 280 GHz MKID Array for Prime-Cam", Journal of Low Temperature Physics (in review), [arXiv:2111.01055](https://arxiv.org/abs/2111.01055)
