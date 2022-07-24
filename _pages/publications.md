@@ -28,24 +28,23 @@ author_profile: true
 
 ### Presentations
 
-{: reversed="reversed"}
-1. **Parallel plate capacitor TiN KID array development for the Balloon Experiment for Galactic Infrared Science**, SPIE Astronomical Telescopes and Instrumentation 2022, Montreal, Canada (July 2022, [poster PDF]({{ site.url }}/downloads/Cothard_SPIE2022_BEGINS_v5.pdf))
+**Parallel plate capacitor TiN KID array development for the Balloon Experiment for Galactic Infrared Science**, SPIE Astronomical Telescopes and Instrumentation 2022, Montreal, Canada (July 2022, [poster PDF]({{ site.url }}/download/Cothard_SPIE2022_BEGINS_v5.pdf))
 
-1. **Science and Detector Technology Development for the PRIMA Far-IR Probe Concept**, NASA GSFC Science \& Exploration Directorate Director's Seminar, Greenbelt, MD (June 2022 invited talk)
+**Science and Detector Technology Development for the PRIMA Far-IR Probe Concept**, NASA GSFC Science \& Exploration Directorate Director's Seminar, Greenbelt, MD (June 2022 invited talk)
 
-1. **Comparing complex impedance and bias step measurements of Simons Observatory transition edge sensors**, SPIE Astronomical Telescopes and Instrumentation 2020, Remote Conference, (December 2020 [poster PDF]({{ site.url }}/downloads/Cothard_SPIE2020.pdf))
+**Comparing complex impedance and bias step measurements of Simons Observatory transition edge sensors**, SPIE Astronomical Telescopes and Instrumentation 2020, Remote Conference, (December 2020 [poster PDF]({{ site.url }}/download/Cothard_SPIE2020.pdf))
 
-1. **The Design of The CCAT-prime Epoch of Reionization Spectrometer Instrument**, Low Temperature Detectors 18, Milan, Italy (July 2019, [poster PDF]({{ site.url }}/downloads/Cothard_LTD2019_v08.pdf)) 
+**The Design of The CCAT-prime Epoch of Reionization Spectrometer Instrument**, Low Temperature Detectors 18, Milan, Italy (July 2019, [poster PDF]({{ site.url }}/download/Cothard_LTD2019_v08.pdf)) 
 
-1. **Optimizing the efficiency of Fabry-Perot interferometers with silicon-substrate mirrors**, SPIE Astronomical Telescopes and Instrumentation 2018, Austin, TX (June 2018, [poster PDF]({{ site.url }}/downloads/Cothard_SPIE2018_v04.pdf))
+**Optimizing the efficiency of Fabry-Perot interferometers with silicon-substrate mirrors**, SPIE Astronomical Telescopes and Instrumentation 2018, Austin, TX (June 2018, [poster PDF]({{ site.url }}/download/Cothard_SPIE2018_v04.pdf))
 
-1. **Sidelobe measurements and models for large aperture CMB experiments**, PICO Science Meeting, University of Minnesota, (May 2018 [poster PDF]({{ site.url }}/downloads/PICO_poster_cothard_20180501.pdf))
+**Sidelobe measurements and models for large aperture CMB experiments**, PICO Science Meeting, University of Minnesota, (May 2018 [poster PDF]({{ site.url }}/download/PICO_poster_cothard_20180501.pdf))
 
-1. **Development of Single and Double Layer Anti-Reflection Coatings for Astronomical Instruments**, Cornell NanoScale Science and Technology Facility Annual Meetings, Ithaca, NY (August 2016, 2017, and 2018 posters)
+**Development of Single and Double Layer Anti-Reflection Coatings for Astronomical Instruments**, Cornell NanoScale Science and Technology Facility Annual Meetings, Ithaca, NY (August 2016, 2017, and 2018 posters)
 
-1. **Evolution of Phase Space Sensitivity for Energetic Ion Loss Measurements in DIII-D**, American Physical Society Division of Plasma Physics 56th Annual Meeting, LA, (October 2014, poster)
+**Evolution of Phase Space Sensitivity for Energetic Ion Loss Measurements in DIII-D**, American Physical Society Division of Plasma Physics 56th Annual Meeting, LA, (October 2014, poster)
 
-1. **The Search for Dirac Magnetic Monopoles with the CDF II Detector**, Rochester Symposium for Physics Students, Rochester, NY, (April 2013, poster)
+**The Search for Dirac Magnetic Monopoles with the CDF II Detector**, Rochester Symposium for Physics Students, Rochester, NY, (April 2013, poster)
 
 
 ### Collaboration Papers
