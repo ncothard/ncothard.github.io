@@ -30,7 +30,7 @@ author_profile: true
 
 **Parallel plate capacitor TiN KID array development for the Balloon Experiment for Galactic Infrared Science**, SPIE Astronomical Telescopes and Instrumentation 2022, Montreal, Canada (July 2022, [poster PDF]({{ site.url }}/download/Cothard_SPIE2022_BEGINS_v5.pdf))
 
-**Science and Detector Technology Development for the PRIMA Far-IR Probe Concept**, NASA GSFC Science \& Exploration Directorate Director's Seminar, Greenbelt, MD (June 2022 invited talk)
+**Science and Detector Technology Development for the PRIMA Far-IR Probe Concept**, NASA GSFC Science & Exploration Directorate Director's Seminar, Greenbelt, MD (June 2022 invited talk)
 
 **Comparing complex impedance and bias step measurements of Simons Observatory transition edge sensors**, SPIE Astronomical Telescopes and Instrumentation 2020, Remote Conference, (December 2020 [poster PDF]({{ site.url }}/download/Cothard_SPIE2020.pdf))
 
