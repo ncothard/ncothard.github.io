@@ -27,12 +27,3 @@ Previously, I was a graduate student in Applied and Engineering Physics at Corne
 ![Toco]({{ site.url }}/assets/images/toco.jpg)
 *The Atacama Cosmology Telescope on Cerro Toco (5190 m / 17030 ft) near San Pedro de Atacama, Chile (May 2017).*
 
-<!---
-What I like to do as an applied physicist
-What I am currently doing
-What I want to do
-Who I am
-Who I work with
-Where I came from
-What my research today is
---->
