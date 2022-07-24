@@ -27,6 +27,7 @@ author_profile: true
 
 
 ### Presentations
+
 {: reversed="reversed"}
 1. **Parallel plate capacitor TiN KID array development for the Balloon Experiment for Galactic Infrared Science**, SPIE Astronomical Telescopes and Instrumentation 2022, Montreal, Canada (July 2022, [poster PDF]({{ site.url }}/downloads/Cothard_SPIE2022_BEGINS_v5.pdf))
 
