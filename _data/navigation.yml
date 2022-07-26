@@ -3,6 +3,8 @@ main:
     url: /
   - title: "Publications"
     url: /publications/
+  - title: "Presentations"
+    url: /presentations/
   - title: "CV"
     url: /download/nfc_cv_20220501.pdf
   - title: "Thesis"
