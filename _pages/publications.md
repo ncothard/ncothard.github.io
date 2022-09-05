@@ -29,11 +29,15 @@ author_profile: true
 ### Collaboration Papers
 
 {: reversed="reversed"}
-1. B. Zou et al. (including **N. F. Cothard**) "CCAT-prime: The Design and Characterization of the Silicon Mirrors for the Fabry-Perot Interferometer in the Epoch of Reionization Spectrometer", Proc. SPIE (2022), [arXiv:2207.08318](https://arxiv.org/abs/2207.08318)
+1. J. Perido et al. (including **N. F. Cothard**) "Cross-slot Metal-mesh Bandpass Filters for Far-Infrared Astronomy", Proc. SPIE (2022), [DOI](https://doi.org/10.1117/12.2630571)
+
+1. T. Nikola et al. (including **N. F. Cothard**) "CCAT-prime: the Epoch Reionization Spectrometer for prime-cam on FYST", Proc. SPIE (2022), [DOI](https://doi.org/10.1117/12.2629338)
+
+1. B. Zou et al. (including **N. F. Cothard**) "CCAT-prime: The Design and Characterization of the Silicon Mirrors for the Fabry-Perot Interferometer in the Epoch of Reionization Spectrometer", Proc. SPIE (2022), [DOI](https://doi.org/10.1117/12.2629518), [arXiv:2207.08318](https://arxiv.org/abs/2207.08318)
 
 1. Z. Huber et al. (including **N. F. Cothard**) "The Simons Observatory: Magnetic Shielding Measurements for the Universal Multiplexing Module", Journal of Low Temperature Physics (in review), [arXiv:2111.11495](https://arxiv.org/abs/2111.11495)
 
-1. S. Choi et al. (including **N. F. Cothard**) "CCAT-prime: Characterization of the First 280 GHz MKID Array for Prime-Cam", Journal of Low Temperature Physics (in review), [arXiv:2111.01055](https://arxiv.org/abs/2111.01055)
+1. S. Choi et al. (including **N. F. Cothard**) "CCAT-prime: Characterization of the First 280 GHz MKID Array for Prime-Cam", Journal of Low Temperature Physics, [DOI](https://doi.org/10.1007/s10909-022-02787-9), [arXiv:2111.01055](https://arxiv.org/abs/2111.01055)
 
 1. The CCAT-Prime Collaboration (including **N. F. Cothard**) "CCAT-prime Collaboration: Science Goals and Forecasts with Prime-Cam on the Fred Young Submillimeter Telescope", ApJ (in review) (2021), [arXiv:2107.10364](https://arxiv.org/abs/2107.10364)
 
