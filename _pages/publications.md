@@ -35,11 +35,11 @@ author_profile: true
 
 1. B. Zou et al. (including **N. F. Cothard**) "CCAT-prime: The Design and Characterization of the Silicon Mirrors for the Fabry-Perot Interferometer in the Epoch of Reionization Spectrometer", Proc. SPIE (2022), [DOI](https://doi.org/10.1117/12.2629518), [arXiv:2207.08318](https://arxiv.org/abs/2207.08318)
 
-1. Z. Huber et al. (including **N. F. Cothard**) "The Simons Observatory: Magnetic Shielding Measurements for the Universal Multiplexing Module", Journal of Low Temperature Physics (in review), [arXiv:2111.11495](https://arxiv.org/abs/2111.11495)
+1. Z. Huber et al. (including **N. F. Cothard**) "The Simons Observatory: Magnetic Shielding Measurements for the Universal Multiplexing Module", Journal of Low Temperature Physics, [DOI](https://doi.org/10.1007/s10909-022-02875-w), [arXiv:2111.11495](https://arxiv.org/abs/2111.11495)
 
 1. S. Choi et al. (including **N. F. Cothard**) "CCAT-prime: Characterization of the First 280 GHz MKID Array for Prime-Cam", Journal of Low Temperature Physics, [DOI](https://doi.org/10.1007/s10909-022-02787-9), [arXiv:2111.01055](https://arxiv.org/abs/2111.01055)
 
-1. The CCAT-Prime Collaboration (including **N. F. Cothard**) "CCAT-prime Collaboration: Science Goals and Forecasts with Prime-Cam on the Fred Young Submillimeter Telescope", ApJ (in review) (2021), [arXiv:2107.10364](https://arxiv.org/abs/2107.10364)
+1. The CCAT-Prime Collaboration (including **N. F. Cothard**) "CCAT-prime Collaboration: Science Goals and Forecasts with Prime-Cam on the Fred Young Submillimeter Telescope", ApJ (2021), [DOI](https://doi.org/10.3847/1538-4365/ac9838), [arXiv:2107.10364](https://arxiv.org/abs/2107.10364)
 
 1. G. Chesmore et al. (including **N. F. Cothard**) "The Simons Observatory: HoloSim-ML: machine learning applied to the efficient analysis of radio holography measurements of complex optical systems", Applied Optics (2021), [DOI](https://doi.org/10.1364/AO.435007), [arXiv:2107.04138](https://arxiv.org/abs/2107.04138)
 
