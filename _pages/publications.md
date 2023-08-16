@@ -29,7 +29,7 @@ author_profile: true
 ### Collaboration Papers
 
 {: reversed="reversed"}
-1. W. Coulton et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: High-resolution component-separated maps across one-third of the sky", (in review, 2023), [arXiv:2307.01258](https://arxiv.org/abs/2307.01258)
+1. W. Coulton et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: High-resolution component-separated maps across one-third of the sky", PhysRevD (in review, 2023), [arXiv:2307.01258](https://arxiv.org/abs/2307.01258)
 
 1. M. Madhavacheril et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: DR6 Gravitational Lensing Map and Cosmological Parameters", ApJ (in press, 2023), [arXiv:2304.05203](https://arxiv.org/abs/2304.05203)
 
