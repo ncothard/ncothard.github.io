@@ -29,6 +29,12 @@ author_profile: true
 ### Collaboration Papers
 
 {: reversed="reversed"}
+1. W. Coulton et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: High-resolution component-separated maps across one-third of the sky", (in review, 2023), [arXiv:2307.01258](https://arxiv.org/abs/2307.01258)
+
+1. M. Madhavacheril et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: DR6 Gravitational Lensing Map and Cosmological Parameters", ApJ (in press, 2023), [arXiv:2304.05203](https://arxiv.org/abs/2304.05203)
+
+1. F. Qu et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: A Measurement of the DR6 CMB Lensing Power Spectrum and its Implications for Structure Growth", ApJ (in review, 2023), [arXiv:2304.05202](https://arxiv.org/abs/2304.05202)
+
 1. J. Perido et al. (including **N. F. Cothard**) "Cross-slot Metal-mesh Bandpass Filters for Far-Infrared Astronomy", Proc. SPIE (2022), [DOI](https://doi.org/10.1117/12.2630571)
 
 1. T. Nikola et al. (including **N. F. Cothard**) "CCAT-prime: the Epoch Reionization Spectrometer for prime-cam on FYST", Proc. SPIE (2022), [DOI](https://doi.org/10.1117/12.2629338)
