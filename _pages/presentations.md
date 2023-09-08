@@ -11,9 +11,7 @@ author_profile: true
 
 - **Parallel Plate Capacitor Aluminum KIDs for Future Far-Infrared Space-Based Observatories**, Low Temperature Detectors 20, Daejeon, South Korea (July 2023, [poster PDF]({{site.url}}/download/Cothard_LTD2023_PRIMA_AlKIDs_v3.pdf))
 
-<!---
-- **NGC 4258: A Laboratory for AGN and Star Formation Impacts on the ISM**, James Web Space Telescope First Year of Science Conference, Space Telescope Science Institute, Baltimore, MD (September 2023, [poster PDF]({{site.url}}/download/Cothard_JWSTFYscience2023_NGC4258.pdf))
---->
+- **NGC 4258: A Laboratory for AGN and Star Formation Impacts on the ISM**, James Web Space Telescope First Year of Science Conference, Space Telescope Science Institute, Baltimore, MD (September 2023, [poster PDF]({{site.url}}/download/Cothard_JWSTFYscience2023_NGC4258_DS.pdf))
 
 - **Parallel plate capacitor TiN KID array development for the Balloon Experiment for Galactic Infrared Science**, SPIE Astronomical Telescopes and Instrumentation 2022, Montreal, Canada (July 2022, [poster PDF]({{ site.url }}/download/Cothard_SPIE2022_BEGINS_v5.pdf))
 
