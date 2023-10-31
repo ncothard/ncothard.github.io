@@ -75,7 +75,7 @@ analytics:
 author:
   name   : "Dr Nicholas F Cothard"
   avatar : "/assets/images/headshot_circle.png"
-  bio    : "NASA Postdoct Fellow at Goddard Space Flight Center. Applied Physics PhD from Cornell."
+  bio    : "NASA Postdoc Fellow at Goddard Space Flight Center. Applied Physics PhD from Cornell."
   location : "Greenbelt, MD"
   links:
     - label: "Email"
