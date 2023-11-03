@@ -9,6 +9,10 @@ author_profile: true
 ### Main-Author Papers
 
 {: reversed="reversed"}
+1. **N. F. Cothard** et al. "Parallel Plate Capacitor Aluminum KIDs for Future Far-Infrared Space-Based Observatories", Journal of Low Temperature Physics (in review, 2023), [arXiv:2311.00819](https://arxiv.org/abs/2311.00773)
+
+1. **N. F. Cothard**, et al. "Monolithic Silicon Microlens Arays for Far-Infrared Astrophysics", Applied Optics (in review, 2023), [arXiv:2311.00819](https://arxiv.org/abs/2311.00819)
+
 1. **N. F. Cothard** et al. "Comparing complex impedance and bias step measurements of Simons Observatory transition edge sensors", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2575912), [arXiv:2012.08547](http://arxiv.org/abs/2012.08547)
 
 1. **N. F. Cothard** et al. "The Design of The CCAT-prime Epoch of Reionization Spectrometer Instrument", Journal of Low Temperature Physics (2020), [DOI](https://doi.org/10.1007/s10909-019-02297-1), [arXiv:1911.11687](https://arxiv.org/abs/1911.11687)
@@ -29,6 +33,12 @@ author_profile: true
 ### Collaboration Papers
 
 {: reversed="reversed"}
+<!---
+1. L. Foote et al. (including **N. F. Cothard**) "High-sensitivity Kinetic Inductance Detector Arrays for the Probe Far-Infrared Mission for Astrophysics", Journal of Low Temperature Physics (in review, 2023), [arxiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx)
+
+1. J. Perido et al. (including **N. F. Cothard**) "Parallel-Plate Capacitor Titanium Nitride Kinetic Inductance Detectors for Infrared Astronomy", Journal of Low Temperature Physics (in review, 2023), [arxiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx)
+--->
+
 1. W. Coulton et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: High-resolution component-separated maps across one-third of the sky", PhysRevD (in review, 2023), [arXiv:2307.01258](https://arxiv.org/abs/2307.01258)
 
 1. M. Madhavacheril et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: DR6 Gravitational Lensing Map and Cosmological Parameters", ApJ (in press, 2023), [arXiv:2304.05203](https://arxiv.org/abs/2304.05203)
