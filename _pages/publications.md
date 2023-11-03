@@ -32,13 +32,13 @@ author_profile: true
 
 ### Collaboration Papers
 
-{: reversed="reversed"}
 <!---
 1. L. Foote et al. (including **N. F. Cothard**) "High-sensitivity Kinetic Inductance Detector Arrays for the Probe Far-Infrared Mission for Astrophysics", Journal of Low Temperature Physics (in review, 2023), [arxiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx)
 
 1. J. Perido et al. (including **N. F. Cothard**) "Parallel-Plate Capacitor Titanium Nitride Kinetic Inductance Detectors for Infrared Astronomy", Journal of Low Temperature Physics (in review, 2023), [arxiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx)
 --->
 
+{: reversed="reversed"}
 1. W. Coulton et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: High-resolution component-separated maps across one-third of the sky", PhysRevD (in review, 2023), [arXiv:2307.01258](https://arxiv.org/abs/2307.01258)
 
 1. M. Madhavacheril et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: DR6 Gravitational Lensing Map and Cosmological Parameters", ApJ (in press, 2023), [arXiv:2304.05203](https://arxiv.org/abs/2304.05203)
