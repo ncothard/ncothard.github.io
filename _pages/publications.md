@@ -9,7 +9,7 @@ author_profile: true
 ### Main-Author Papers
 
 {: reversed="reversed"}
-1. **N. F. Cothard** et al. "Parallel Plate Capacitor Aluminum KIDs for Future Far-Infrared Space-Based Observatories", Journal of Low Temperature Physics (in review, 2023), [arXiv:2311.00819](https://arxiv.org/abs/2311.00773)
+1. **N. F. Cothard** et al. "Parallel Plate Capacitor Aluminum KIDs for Future Far-Infrared Space-Based Observatories", Journal of Low Temperature Physics (in review, 2023), [arXiv:2311.00773](https://arxiv.org/abs/2311.00773)
 
 1. **N. F. Cothard** et al. "Monolithic Silicon Microlens Arrays for Far-Infrared Astrophysics", Applied Optics (in review, 2023), [arXiv:2311.00819](https://arxiv.org/abs/2311.00819)
 
@@ -33,7 +33,7 @@ author_profile: true
 ### Collaboration Papers
 
 {: reversed="reversed"}
-1. L. Foote et al. (including **N. F. Cothard**) "High-sensitivity Kinetic Inductance Detector Arrays for the Probe Far-Infrared Mission for Astrophysics", Journal of Low Temperature Physics (in review, 2023), [arxiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx)
+1. L. Foote et al. (including **N. F. Cothard**) "High-sensitivity Kinetic Inductance Detector Arrays for the Probe Far-Infrared Mission for Astrophysics", Journal of Low Temperature Physics (in review, 2023), [arxiv:2311.02175](https://arxiv.org/abs/2311.02175)
 
 1. J. Perido et al. (including **N. F. Cothard**) "Parallel-Plate Capacitor Titanium Nitride Kinetic Inductance Detectors for Infrared Astronomy", Journal of Low Temperature Physics (in review, 2023), [arxiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx)
 
