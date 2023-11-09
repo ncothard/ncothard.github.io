@@ -35,7 +35,7 @@ author_profile: true
 {: reversed="reversed"}
 1. L. Foote et al. (including **N. F. Cothard**) "High-sensitivity Kinetic Inductance Detector Arrays for the Probe Far-Infrared Mission for Astrophysics", Journal of Low Temperature Physics (in review, 2023), [arxiv:2311.02175](https://arxiv.org/abs/2311.02175)
 
-1. J. Perido et al. (including **N. F. Cothard**) "Parallel-Plate Capacitor Titanium Nitride Kinetic Inductance Detectors for Infrared Astronomy", Journal of Low Temperature Physics (in review, 2023), [arxiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx)
+1. J. Perido et al. (including **N. F. Cothard**) "Parallel-Plate Capacitor Titanium Nitride Kinetic Inductance Detectors for Infrared Astronomy", Journal of Low Temperature Physics (in review, 2023), [arxiv:2311.xxxxx](https://arxiv.org/abs/2311.xxxxx)
 
 1. E. Kane et al. (including **N. F. Cothard**) "Modeling of Cosmic Rays and Near-IR photons in aluminum KIDs", Journal of Low Temperature Physics (in review, 2023), [arxiv:2311.04859](https://arxiv.org/abs/2311.04859)
 
