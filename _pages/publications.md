@@ -37,7 +37,7 @@ author_profile: true
 
 1. J. Perido et al. (including **N. F. Cothard**) "Parallel-Plate Capacitor Titanium Nitride Kinetic Inductance Detectors for Infrared Astronomy", Journal of Low Temperature Physics (in review, 2023), [arxiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx)
 
-1. E. Kane et al. (including **N. F. Cothard**) "Modeling of Cosmic Rays and Near-IR photons in aluminum KIDs", Journal of Low Temperature Physics (in review, 2023), [arxiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx)
+1. E. Kane et al. (including **N. F. Cothard**) "Modeling of Cosmic Rays and Near-IR photons in aluminum KIDs", Journal of Low Temperature Physics (in review, 2023), [arxiv:2311.04859](https://arxiv.org/abs/2311.04859)
 
 1. W. Coulton et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: High-resolution component-separated maps across one-third of the sky", PhysRevD (in review, 2023), [arXiv:2307.01258](https://arxiv.org/abs/2307.01258)
 
