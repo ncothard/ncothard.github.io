@@ -11,7 +11,7 @@ author_profile: true
 {: reversed="reversed"}
 1. **N. F. Cothard** et al. "Parallel Plate Capacitor Aluminum KIDs for Future Far-Infrared Space-Based Observatories", Journal of Low Temperature Physics (in press, 2023), [arXiv:2311.00773](https://arxiv.org/abs/2311.00773)
 
-1. **N. F. Cothard** et al. "Monolithic Silicon Microlens Arrays for Far-Infrared Astrophysics", Applied Optics (in review, 2023), [arXiv:2311.00819](https://arxiv.org/abs/2311.00819)
+1. **N. F. Cothard** et al. "Monolithic Silicon Microlens Arrays for Far-Infrared Astrophysics", Applied Optics (in press, 2023), [arXiv:2311.00819](https://arxiv.org/abs/2311.00819)
 
 1. **N. F. Cothard** et al. "Comparing complex impedance and bias step measurements of Simons Observatory transition edge sensors", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2575912), [arXiv:2012.08547](http://arxiv.org/abs/2012.08547)
 
