@@ -9,7 +9,7 @@ author_profile: true
 ### Main-Author Papers
 
 {: reversed="reversed"}
-1. **N. F. Cothard** et al. "Parallel Plate Capacitor Aluminum KIDs for Future Far-Infrared Space-Based Observatories", Journal of Low Temperature Physics (in press, 2023), [arXiv:2311.00773](https://arxiv.org/abs/2311.00773)
+1. **N. F. Cothard** et al. "Parallel Plate Capacitor Aluminum KIDs for Future Far-Infrared Space-Based Observatories", Journal of Low Temperature Physics (2024), [DOI](https://doi.org/10.1007/s10909-023-03039-0), [arXiv:2311.00773](https://arxiv.org/abs/2311.00773)
 
 1. **N. F. Cothard** et al. "Monolithic Silicon Microlens Arrays for Far-Infrared Astrophysics", Applied Optics (2024), [DOI](https://doi.org/10.1364/AO.510409), [arXiv:2311.00819](https://arxiv.org/abs/2311.00819)
 
