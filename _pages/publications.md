@@ -33,11 +33,11 @@ author_profile: true
 ### Collaboration Papers
 
 {: reversed="reversed"}
-1. L. Foote et al. (including **N. F. Cothard**) "High-sensitivity Kinetic Inductance Detector Arrays for the Probe Far-Infrared Mission for Astrophysics", Journal of Low Temperature Physics (in press, 2023), [DOI](https://doi.org/10.1007/s10909-023-03041-6), [arxiv:2311.02175](https://arxiv.org/abs/2311.02175)
+1. L. Foote et al. (including **N. F. Cothard**) "High-sensitivity Kinetic Inductance Detector Arrays for the Probe Far-Infrared Mission for Astrophysics", Journal of Low Temperature Physics (2024), [DOI](https://doi.org/10.1007/s10909-023-03041-6), [arxiv:2311.02175](https://arxiv.org/abs/2311.02175)
 
 1. J. Perido et al. (including **N. F. Cothard**) "Parallel-Plate Capacitor Titanium Nitride Kinetic Inductance Detectors for Infrared Astronomy", Journal of Low Temperature Physics (in review, 2023), [arxiv:2312.17378](https://arxiv.org/abs/2312.17378)
 
-1. E. Kane et al. (including **N. F. Cothard**) "Modeling of Cosmic Rays and Near-IR photons in aluminum KIDs", Journal of Low Temperature Physics (in press, 2023), [arxiv:2311.04859](https://arxiv.org/abs/2311.04859)
+1. E. Kane et al. (including **N. F. Cothard**) "Modeling of Cosmic Rays and Near-IR photons in aluminum KIDs", Journal of Low Temperature Physics (2024), [DOI](https://doi.org/10.1007/s10909-023-03044-3), [arxiv:2311.04859](https://arxiv.org/abs/2311.04859)
 
 1. W. Coulton et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: High-resolution component-separated maps across one-third of the sky", PhysRevD (in review, 2023), [arXiv:2307.01258](https://arxiv.org/abs/2307.01258)
 
