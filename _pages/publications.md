@@ -35,6 +35,9 @@ author_profile: true
 ### Collaboration Papers
 
 {: reversed="reversed"}
+1. T. Fischer et al. (including **N. F. Cothard**) "JWST NIRCam Imaging of NGC 4258: I. Observation Overview", AAS (In Review 2025)
+
+
 1. B. Zou et al. (including **N. F. Cothard**) "Demonstration of a high-resolution virtually imaged phased array in the far-infrared", Applied Optics (2025), [DOI:10.1364/AO.555589](https://doi.org/10.1364/AO.555589)
 
 1. T. Louis et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: DR6 Power Spectra, Likelihoods and $\Lambda$CDM Parameters", JCAP (In Review, 2025), [arXiv:2503.14452](https://arxiv.org/abs/2503.14452)
