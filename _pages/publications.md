@@ -35,6 +35,16 @@ author_profile: true
 ### Collaboration Papers
 
 {: reversed="reversed"}
+1. B. Zou et al. (including **N. F. Cothard**) "Demonstration of a high-resolution virtually imaged phased array in the far-infrared", Applied Optics (2025), [DOI:10.1364/AO.555589](https://doi.org/10.1364/AO.555589)
+
+1. T. Louis et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: DR6 Power Spectra, Likelihoods and $\Lambda$CDM Parameters", JCAP (In Review, 2025), [arXiv:2503.14452](https://arxiv.org/abs/2503.14452)
+
+1. E. Calabrese et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: DR6 Constraints on Extended Cosmological Models", JCAP (In Review 2025), [arXiv:2503.14454](https://arxiv.org/abs/2503.14454)
+
+1. S. Naess et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: DR6 Maps", JCAP (In Review 2025), [arXiv:2503.14451](https://arxiv.org/abs/2503.14451)
+
+1. M. Abitbol et al. (including **N. F. Cothard**) "The Simons Observatory: Science Goals and Forecasts for the Enhanced Large Aperture Telescope", JCAP (In Review 2025),[arXiv:2503.00636](https://arxiv.org/abs/2503.00636)
+
 1. J. Perido et al. (including **N. F. Cothard**) "Metal-mesh linear variable bandpass filter for far-infrared wavelengths", Applied Optics (2024), [DOI:10.1364/AO.534805](https://doi.org/10.1364/AO.534805), [arXiv:2410.00826](https://arxiv.org/abs/2410.00826)
 
 1. E. Kane et al. (including **N. F. Cothard**) "Development of an Ultra-Sensitive 210-micron Array of KIDs for Far-IR Astronomy", Proc. SPIE (2024), [arXiv:2408.03859](https://arxiv.org/abs/2408.03859)
